@@ -130,4 +130,8 @@ public class CarController {
         }
     }
 
+    void startTimer(){
+        timer.start();
+    }
+
 }
