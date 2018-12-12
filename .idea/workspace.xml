@@ -3,24 +3,22 @@
   <component name="ChangeListManager">
     <list default="true" id="0d1f27a0-f1dd-4162-87ec-5410d45eb607" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Laboration 1/CarController$TimerListener.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Laboration 1/CarController$TimerListener.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Laboration 1/CarController.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Laboration 1/CarController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Laboration 1/CarView$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Laboration 1/CarView$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Laboration 1/CarView$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Laboration 1/CarView$2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Laboration 1/CarView$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Laboration 1/CarView$3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Laboration 1/CarView$4.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Laboration 1/CarView$4.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Laboration 1/CarView$5.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Laboration 1/CarView$5.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Laboration 1/CarView$6.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Laboration 1/CarView$6.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Laboration 1/CarView$7.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Laboration 1/CarView$7.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Laboration 1/CarView$8.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Laboration 1/CarView$8.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Laboration 1/CarView$9.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Laboration 1/CarView$9.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Laboration 1/CarView.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Laboration 1/CarView.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Laboration 1/Model/Tests/CarTest$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Laboration 1/Model/Tests/CarTest$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Laboration 1/Model/Tests/VesselTest$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Laboration 1/Model/Tests/VesselTest$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Laboration 1/DrawPanel.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Laboration 1/DrawPanel.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Laboration 1/Model/CarTransport.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Laboration 1/Model/CarTransport.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Laboration 1/Model/Ferry.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Laboration 1/Model/Ferry.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Laboration 1/Model/FlatBed.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Laboration 1/Model/Ramp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Laboration 1/Model/Scania.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Laboration 1/Model/Scania.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Laboration 1/Model/Tests/CarTransportTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Laboration 1/Model/Tests/CarTransportTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Laboration 1/Model/Tests/FerryTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Laboration 1/Model/Tests/FerryTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Laboration 1/Model/Tests/ScaniaTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Laboration 1/Model/Tests/ScaniaTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Laboration 1/Model/Tests/TransportTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Laboration 1/Model/Tests/TransportTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Laboration 1/Model/Tests/Truck4CarsTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Laboration 1/Model/Tests/Truck4CarsTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Laboration 1/Model/Transport.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Laboration 1/Model/Transport.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Laboration 1/Model/Truck4Cars.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Laboration 1/Model/Truck4Cars.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Laboration 1/Model/World.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Laboration 1/Model/World.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/CarController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CarController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CarView.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CarView.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/DrawPanel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DrawPanel.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Model/World.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Model/World.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -249,22 +247,24 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="2" />
+          <entry key="java" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="2" />
+          <entry key="JAVA" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="731" />
+          <entry key="java" value="868" />
+          <entry key="txt" value="11" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="731" />
+          <entry key="JAVA" value="868" />
+          <entry key="PLAIN_TEXT" value="11" />
         </counts>
       </usages-collector>
     </session>
@@ -274,8 +274,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/CarController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="461">
-              <caret line="135" column="85" selection-start-line="135" selection-start-column="85" selection-end-line="135" selection-end-column="85" />
+            <state relative-caret-position="427">
+              <caret line="41" column="60" selection-start-line="41" selection-start-column="60" selection-end-line="41" selection-end-column="60" />
             </state>
           </provider>
         </entry>
@@ -283,8 +283,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/CarsimulationApp.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="22" column="1" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
+            <state relative-caret-position="391">
+              <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -293,10 +293,19 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Model/Transport.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="18" column="11" selection-start-line="18" selection-start-column="11" selection-end-line="18" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Model/World.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="544">
-              <caret line="39" column="4" selection-start-line="39" selection-start-column="4" selection-end-line="39" selection-end-column="4" />
+            <state relative-caret-position="476">
+              <caret line="39" selection-start-line="39" selection-end-line="39" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -304,7 +313,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/CarView.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="323">
@@ -319,30 +328,54 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/DrawPanel.java">
+        <entry file="file://$PROJECT_DIR$/src/Model/CarTransport.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="223">
-              <caret line="67" column="47" selection-start-line="67" selection-start-column="47" selection-end-line="67" selection-end-column="47" />
+            <state relative-caret-position="150">
+              <caret line="45" column="9" lean-forward="true" selection-start-line="45" selection-start-column="9" selection-end-line="45" selection-end-column="9" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#2616#2617#0" expanded="true" />
-                <element signature="e#2647#2648#0" expanded="true" />
-                <element signature="e#2691#2692#0" expanded="true" />
-                <element signature="e#2724#2725#0" expanded="true" />
-                <element signature="e#2767#2768#0" expanded="true" />
-                <element signature="e#2799#2800#0" expanded="true" />
-                <element signature="e#2844#2845#0" expanded="true" />
-                <element signature="e#2878#2879#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Model/Ferry.java">
+        <entry file="file://$PROJECT_DIR$/src/Model/Scania.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="14" selection-start-line="14" selection-end-line="14" />
+            <state relative-caret-position="187">
+              <caret line="15" column="58" selection-start-line="15" selection-start-column="58" selection-end-line="15" selection-end-column="58" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/DrawPanel.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="376">
+              <caret line="32" column="71" selection-start-line="32" selection-start-column="71" selection-end-line="32" selection-end-column="71" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#2702#2703#0" expanded="true" />
+                <element signature="e#2733#2734#0" expanded="true" />
+                <element signature="e#2777#2778#0" expanded="true" />
+                <element signature="e#2810#2811#0" expanded="true" />
+                <element signature="e#2853#2854#0" expanded="true" />
+                <element signature="e#2885#2886#0" expanded="true" />
+                <element signature="e#2930#2931#0" expanded="true" />
+                <element signature="e#2964#2965#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Model/Vessel.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="252">
+              <caret line="35" column="35" selection-start-line="35" selection-start-column="34" selection-end-line="35" selection-end-column="35" />
             </state>
           </provider>
         </entry>
@@ -418,9 +451,11 @@
         <option value="$PROJECT_DIR$/src/Model/CarsimulationApp.java" />
         <option value="$PROJECT_DIR$/src/CarsimulationApp.java" />
         <option value="$PROJECT_DIR$/src/Model/World.java" />
-        <option value="$PROJECT_DIR$/src/DrawPanel.java" />
-        <option value="$PROJECT_DIR$/src/CarController.java" />
         <option value="$PROJECT_DIR$/src/CarView.java" />
+        <option value="$PROJECT_DIR$/src/Model/CarTransport.java" />
+        <option value="$PROJECT_DIR$/src/Model/Scania.java" />
+        <option value="$PROJECT_DIR$/src/CarController.java" />
+        <option value="$PROJECT_DIR$/src/DrawPanel.java" />
       </list>
     </option>
   </component>
@@ -473,7 +508,7 @@
     <property name="Downloaded.Files.Path.Enabled" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1544622229816" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1544623603094" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="create.test.in.the.same.root" value="true" />
@@ -703,6 +738,14 @@
       <option name="presentableId" value="Default" />
       <updated>1541667766797</updated>
     </task>
+    <task id="LOCAL-00001" summary="almost done">
+      <created>1544622253909</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1544622253910</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -782,6 +825,10 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="almost done" />
+    <option name="LAST_COMMIT_MESSAGE" value="almost done" />
+  </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
     <option name="FILTER_TARGETS" value="false" />
@@ -823,13 +870,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="431">
           <caret line="27" column="23" selection-start-line="27" selection-start-column="23" selection-end-line="27" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Model/Scania.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="49" selection-start-line="11" selection-start-column="34" selection-end-line="11" selection-end-column="49" />
         </state>
       </provider>
     </entry>
@@ -900,23 +940,18 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="99">
           <caret line="94" column="22" selection-start-line="94" selection-start-column="22" selection-end-line="94" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Model/CarTransport.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="116">
-          <caret line="27" column="11" selection-start-line="27" selection-start-column="11" selection-end-line="27" selection-end-column="11" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#297#298#0" expanded="true" />
+            <element signature="e#355#356#0" expanded="true" />
+            <element signature="e#412#413#0" expanded="true" />
+            <element signature="e#470#471#0" expanded="true" />
+            <element signature="e#520#521#0" expanded="true" />
+            <element signature="e#573#574#0" expanded="true" />
+            <element signature="e#1035#1036#0" expanded="true" />
+            <element signature="e#1095#1096#0" expanded="true" />
+            <element signature="e#1634#1635#0" expanded="true" />
+            <element signature="e#1688#1689#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Model/Transport.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="18" column="11" selection-start-line="18" selection-start-column="11" selection-end-line="18" selection-end-column="11" />
         </state>
       </provider>
     </entry>
@@ -924,13 +959,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="184">
           <caret line="40" column="4" selection-start-line="40" selection-start-column="4" selection-end-line="40" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Model/Vessel.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="35" column="35" selection-start-line="35" selection-start-column="34" selection-end-line="35" selection-end-column="35" />
         </state>
       </provider>
     </entry>
@@ -953,51 +981,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/DrawPanel.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="223">
-          <caret line="67" column="47" selection-start-line="67" selection-start-column="47" selection-end-line="67" selection-end-column="47" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#2616#2617#0" expanded="true" />
-            <element signature="e#2647#2648#0" expanded="true" />
-            <element signature="e#2691#2692#0" expanded="true" />
-            <element signature="e#2724#2725#0" expanded="true" />
-            <element signature="e#2767#2768#0" expanded="true" />
-            <element signature="e#2799#2800#0" expanded="true" />
-            <element signature="e#2844#2845#0" expanded="true" />
-            <element signature="e#2878#2879#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/CarsimulationApp.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="22" column="1" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Model/World.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="544">
-          <caret line="39" column="4" selection-start-line="39" selection-start-column="4" selection-end-line="39" selection-end-column="4" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/CarController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="461">
-          <caret line="135" column="85" selection-start-line="135" selection-start-column="85" selection-end-line="135" selection-end-column="85" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/CarView.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
@@ -1006,6 +989,85 @@
             <element signature="docComment;class#CarView#0" />
             <element signature="e#5565#5566#0" expanded="true" />
             <element signature="e#5610#5611#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Model/Scania.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="15" column="58" selection-start-line="15" selection-start-column="58" selection-end-line="15" selection-end-column="58" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Model/Transport.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="18" column="11" selection-start-line="18" selection-start-column="11" selection-end-line="18" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CarsimulationApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Model/CarTransport.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="45" column="9" lean-forward="true" selection-start-line="45" selection-start-column="9" selection-end-line="45" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Model/World.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="39" selection-start-line="39" selection-end-line="39" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CarController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="427">
+          <caret line="41" column="60" selection-start-line="41" selection-start-column="60" selection-end-line="41" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Model/Vessel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="35" column="35" selection-start-line="35" selection-start-column="34" selection-end-line="35" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DrawPanel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="376">
+          <caret line="32" column="71" selection-start-line="32" selection-start-column="71" selection-end-line="32" selection-end-column="71" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#2702#2703#0" expanded="true" />
+            <element signature="e#2733#2734#0" expanded="true" />
+            <element signature="e#2777#2778#0" expanded="true" />
+            <element signature="e#2810#2811#0" expanded="true" />
+            <element signature="e#2853#2854#0" expanded="true" />
+            <element signature="e#2885#2886#0" expanded="true" />
+            <element signature="e#2930#2931#0" expanded="true" />
+            <element signature="e#2964#2965#0" expanded="true" />
           </folding>
         </state>
       </provider>

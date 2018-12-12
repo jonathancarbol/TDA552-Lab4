@@ -1,3 +1,5 @@
+import Model.Vessel;
+
 import java.awt.*;
 import java.awt.image.BufferedImage;
 import java.io.File;
@@ -25,12 +27,10 @@ public class DrawPanel extends JPanel{
         drawCars.add(Scania);
     }
 
-    void moveit(int x, int y, String modelName){
+    void moveit(int x, int y, ArrayList<Vessel> cars){
         for (int i = 0; i < drawCars.size(); i++){
-            if (modelName.equals(drawCars.get(i).getName())){
-                drawCars.get(i).getPoint().x = x;
-                drawCars.get(i).getPoint().y = y;
-            }
+            drawCars.get(i).getPoint().x = cars.get(i).getPosition().x;
+            drawCars.get(i).getPoint().y = cars.get(i).getPosition().y;
         }
     }
 
@@ -63,9 +63,11 @@ public class DrawPanel extends JPanel{
         super.paintComponent(g);
         int offset = 0;
 
-        for (int i = 0; i < drawCars.size(); i++){
-            g.drawImage(drawCars.get(i).getImage(),drawCars.get(i).getPoint().x,drawCars.get(i).getPoint().y+offset,null);
-            offset = offset+600/drawCars.size();
+        if(!drawCars.isEmpty()) {
+            for (int i = 0; i < drawCars.size(); i++) {
+                g.drawImage(drawCars.get(i).getImage(), drawCars.get(i).getPoint().x, drawCars.get(i).getPoint().y + offset, null);
+                offset = offset + 550 / drawCars.size();
+            }
         }
     }
 

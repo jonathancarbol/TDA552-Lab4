@@ -39,7 +39,7 @@ public class CarController {
 
                 world.move(car);
 
-                frame.drawPanel.moveit(x, y, car.getModelName());
+                frame.drawPanel.moveit(x, y, world.getCars());
                 // repaint() calls the paintComponent method of the panel
                 frame.drawPanel.repaint();
             }
@@ -141,6 +141,7 @@ public class CarController {
             world.getCars().remove(world.getCars().size() - 1);
             frame.drawPanel.getDrawCars().remove(frame.drawPanel.getDrawCars().size() - 1);
         }
+        frame.drawPanel.repaint();
     }
 
 }
