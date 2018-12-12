@@ -22,18 +22,9 @@ public class CarController {
     // The frame that represents this instance View of the MVC pattern
     CarView frame;
     // A list of cars, modify if needed
-    //ArrayList<Vessel> cars = new ArrayList<>();
     World world;
 
-    //methods:
-    /*
-    
-    
-    
-    
-    
-    ----------------------------------------La inte till world som argument då vi inte startar main genom att skicka in saker osv....
-     */
+    //methods:----------------------------------------La inte till world som argument då vi inte startar main genom att skicka in saker osv....
     /* Each step the TimerListener moves all the cars in the list and tells the
      * view to update its images. Change this method to your needs.
      * */
