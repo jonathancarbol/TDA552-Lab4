@@ -11,14 +11,10 @@ public class Truck4Cars extends CarTransport{
 
     /**
      * Constructor for the Model.Truck4Cars class.
-     * @param enginePower
-     * @param color
-     * @param modelName
-     * @param maxCars
-     * @param maxWeightCar
+     *
      */
-    public Truck4Cars(double enginePower, Color color, String modelName, int maxCars, int maxWeightCar) {
-        super(enginePower, color, modelName, maxCars, maxWeightCar);
+    public Truck4Cars() {
+        super(500, Color.CYAN, "Model X", 20, 3000);
     }
 
     /**

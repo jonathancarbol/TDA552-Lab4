@@ -10,15 +10,11 @@ import static java.lang.Math.abs;
 public class Ferry extends CarTransport {
     /**
      * Constructor for the Model.Ferry Class.
-     * @param enginePower
-     * @param color
-     * @param modelName
-     * @param maxCars
-     * @param maxWeightCar
+
      */
 
-    public Ferry(double enginePower, Color color, String modelName, int maxCars, int maxWeightCar) {
-        super(enginePower, color, modelName, maxCars, maxWeightCar);
+    public Ferry() {
+        super(500, Color.pink, "Stena Danica", 200, 3000);
     }
 
     /**

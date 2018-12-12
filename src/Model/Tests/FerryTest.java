@@ -13,7 +13,7 @@ import static org.junit.Assert.*;
  */
 public class FerryTest {
 
-    Ferry f = new Ferry(1000, Color.BLACK, "Model.Tests.FerryTest", 20, 3000);
+    Ferry f = new Ferry();
 
     @Test
     public void unloadCars() {

@@ -13,7 +13,7 @@ import static org.junit.Assert.*;
  */
 public class Truck4CarsTest {
 
-    Truck4Cars t = new Truck4Cars(100, Color.BLACK,"TestTruck4Cars",6,3000);
+    Truck4Cars t = new Truck4Cars();
 
     @Test
     public void unloadCars() {

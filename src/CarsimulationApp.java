@@ -7,9 +7,9 @@ public class CarsimulationApp {
         // Instance of this class
         CarController cc = new CarController();
         ArrayList<Vessel> cars = new ArrayList<>();
-        cars.add(new Volvo240());
-        cars.add(new Saab95());
-        cars.add(new Scania());
+        cars.add(VesselFactory.createVolvo240());
+        cars.add(VesselFactory.createSaab95());
+        cars.add(VesselFactory.createScania());
 
         // Add a world
         cc.world = new World(800, 560, cars);

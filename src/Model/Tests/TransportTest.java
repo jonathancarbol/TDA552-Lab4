@@ -13,7 +13,7 @@ import static org.junit.Assert.*;
  */
 public class TransportTest {
 
-    Transport t = new Ferry(200, Color.BLACK,"TestTransport", 6, 3000);
+    Transport t = new Ferry();
 
     @Test
     public void startEngine() {

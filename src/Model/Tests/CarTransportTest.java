@@ -14,7 +14,7 @@ import static org.junit.Assert.*;
  */
 public class CarTransportTest {
 
-    CarTransport c = new Ferry(200, Color.BLACK, "TestCarTransport",6,3000);
+    CarTransport c = new Ferry();
 
     @Test
     public void loadCar() {
