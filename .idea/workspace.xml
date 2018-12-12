@@ -3,24 +3,44 @@
   <component name="ChangeListManager">
     <list default="true" id="0d1f27a0-f1dd-4162-87ec-5410d45eb607" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Laboration 1/CarController$TimerListener.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Laboration 1/CarController$TimerListener.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Laboration 1/CarController.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Laboration 1/CarController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Laboration 1/CarView$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Laboration 1/CarView$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Laboration 1/CarView$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Laboration 1/CarView$2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Laboration 1/CarView$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Laboration 1/CarView$3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Laboration 1/CarView$4.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Laboration 1/CarView$4.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Laboration 1/CarView$5.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Laboration 1/CarView$5.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Laboration 1/CarView$6.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Laboration 1/CarView$6.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Laboration 1/CarView$7.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Laboration 1/CarView$7.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Laboration 1/CarView$8.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Laboration 1/CarView$8.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Laboration 1/CarView$9.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Laboration 1/CarView$9.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Laboration 1/CarView.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Laboration 1/CarView.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Laboration 1/CarController$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Laboration 1/CarController$TimerListener.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Laboration 1/CarController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Laboration 1/CarView$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Laboration 1/CarView$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Laboration 1/CarView$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Laboration 1/CarView$4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Laboration 1/CarView$5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Laboration 1/CarView$6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Laboration 1/CarView$7.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Laboration 1/CarView$8.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Laboration 1/CarView$9.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Laboration 1/CarView.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Laboration 1/DrawCar.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Laboration 1/DrawPanel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Laboration 1/Model/CarTransport.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Laboration 1/Model/CarTransport.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Laboration 1/Model/Ferry.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Laboration 1/Model/Ferry.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Laboration 1/Model/FlatBed.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Laboration 1/Model/Ramp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Laboration 1/Model/Scania.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Laboration 1/Model/Scania.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Laboration 1/Model/Tests/CarTest$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Laboration 1/Model/Tests/CarTest$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Laboration 1/Model/Tests/CarTransportTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Laboration 1/Model/Tests/CarTransportTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Laboration 1/Model/Tests/FerryTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Laboration 1/Model/Tests/FerryTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Laboration 1/Model/Tests/ScaniaTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Laboration 1/Model/Tests/ScaniaTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Laboration 1/Model/Tests/TransportTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Laboration 1/Model/Tests/TransportTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Laboration 1/Model/Tests/Truck4CarsTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Laboration 1/Model/Tests/Truck4CarsTest.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Laboration 1/Model/Tests/VesselTest$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Laboration 1/Model/Tests/VesselTest$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CarController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CarController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CarView.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CarView.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DrawPanel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DrawPanel.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Model/World.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Model/World.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Laboration 1/Model/Transport.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Laboration 1/Model/Transport.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Laboration 1/Model/Truck4Cars.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Laboration 1/Model/Truck4Cars.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Laboration 1/Model/Volvo240.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Laboration 1/Model/Volvo240.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CarController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ViewController/CarController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CarView.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ViewController/CarView.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CarsimulationApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ViewController/CarsimulationApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DrawCar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ViewController/DrawCar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DrawPanel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ViewController/DrawPanel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Model/CarTransport.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Model/CarTransport.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Model/Scania.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Model/Scania.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Model/Volvo240.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Model/Volvo240.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -30,43 +50,45 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/Laboration_1$CarTest_brake.ic" NAME="CarTest.brake Coverage Results" MODIFIED="1542012550059" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
-    <SUITE FILE_PATH="coverage/Laboration_1$CarTest_turnRight.ic" NAME="CarTest.turnRight Coverage Results" MODIFIED="1542009824911" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
-    <SUITE FILE_PATH="coverage/Laboration_1$CarTest_getNrDoors.ic" NAME="CarTest.getNrDoors Coverage Results" MODIFIED="1542008465515" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
-    <SUITE FILE_PATH="coverage/Laboration_1$ScaniaTest_getFlatBedAngle.ic" NAME="ScaniaTest.getFlatBedAngle Coverage Results" MODIFIED="1542979166992" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
-    <SUITE FILE_PATH="coverage/Laboration_1$FerryTest.ic" NAME="FerryTest Coverage Results" MODIFIED="1542977217470" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
-    <SUITE FILE_PATH="coverage/Laboration_1$ScaniaTest.ic" NAME="ScaniaTest Coverage Results" MODIFIED="1542977884669" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
-    <SUITE FILE_PATH="coverage/Laboration_1$Volvo240Test.ic" NAME="Volvo240Test Coverage Results" MODIFIED="1542977287937" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
     <SUITE FILE_PATH="coverage/Laboration_1$CarTest_turnLeft.ic" NAME="CarTest.turnLeft Coverage Results" MODIFIED="1542009783796" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
-    <SUITE FILE_PATH="coverage/Laboration_1$CarTest_gas.ic" NAME="CarTest.gas Coverage Results" MODIFIED="1542012537241" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
-    <SUITE FILE_PATH="coverage/Laboration_1$TransportTest.ic" NAME="TransportTest Coverage Results" MODIFIED="1542699013610" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
-    <SUITE FILE_PATH="coverage/Laboration_1$CarTest_getPosition.ic" NAME="CarTest.getPosition Coverage Results" MODIFIED="1542011040354" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
-    <SUITE FILE_PATH="coverage/Laboration_1$CarTransportTest.ic" NAME="CarTransportTest Coverage Results" MODIFIED="1542977205059" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
-    <SUITE FILE_PATH="coverage/Laboration_1$Saab95Test.ic" NAME="Saab95Test Coverage Results" MODIFIED="1542977234856" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
-    <SUITE FILE_PATH="coverage/Laboration_1$CarTest_incrementSpeed.ic" NAME="CarTest.incrementSpeed Coverage Results" MODIFIED="1542009320692" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
-    <SUITE FILE_PATH="coverage/Laboration_1$Saab95Test_speedFactor.ic" NAME="Saab95Test.speedFactor Coverage Results" MODIFIED="1542010671011" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
-    <SUITE FILE_PATH="coverage/Laboration_1$TransportTest_setRampUp.ic" NAME="TransportTest.setRampUp Coverage Results" MODIFIED="1542977330849" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
-    <SUITE FILE_PATH="coverage/Laboration_1$CarTest_decrementSpeed.ic" NAME="CarTest.decrementSpeed Coverage Results" MODIFIED="1542009406808" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
-    <SUITE FILE_PATH="coverage/Laboration_1$CarTest_move.ic" NAME="CarTest.move Coverage Results" MODIFIED="1542009672696" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
-    <SUITE FILE_PATH="coverage/Laboration_1$CarTransportTest_move.ic" NAME="CarTransportTest.move Coverage Results" MODIFIED="1542700276813" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
     <SUITE FILE_PATH="coverage/Laboration_1$CarTest.ic" NAME="CarTest Coverage Results" MODIFIED="1542977190543" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
-    <SUITE FILE_PATH="coverage/Laboration_1$CarTransportTest_loadCar.ic" NAME="CarTransportTest.loadCar Coverage Results" MODIFIED="1544111969555" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
-    <SUITE FILE_PATH="coverage/Laboration_1$CarTest_startEngine.ic" NAME="CarTest.startEngine Coverage Results" MODIFIED="1542009900801" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
-    <SUITE FILE_PATH="coverage/Laboration_1$TransportTest_isRampUp.ic" NAME="TransportTest.isRampUp Coverage Results" MODIFIED="1542977315582" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
-    <SUITE FILE_PATH="coverage/Laboration_1$CarTest_getDirection.ic" NAME="CarTest.getDirection Coverage Results" MODIFIED="1542011051542" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/Laboration_1$CarTest_getEnginePower.ic" NAME="CarTest.getEnginePower Coverage Results" MODIFIED="1542008487964" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/Laboration_1$CarTest_getCurrentSpeed.ic" NAME="CarTest.getCurrentSpeed Coverage Results" MODIFIED="1542008968450" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/Laboration_1$ScaniaTest_startEngine.ic" NAME="ScaniaTest.startEngine Coverage Results" MODIFIED="1542098558859" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/Laboration_1$VesselTest.ic" NAME="VesselTest Coverage Results" MODIFIED="1542977149237" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/Laboration_1$CarTest_move.ic" NAME="CarTest.move Coverage Results" MODIFIED="1542009672696" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/Laboration_1$CarTest_brake.ic" NAME="CarTest.brake Coverage Results" MODIFIED="1542012550059" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/Laboration_1$Saab95Test_speedFactor.ic" NAME="Saab95Test.speedFactor Coverage Results" MODIFIED="1542010671011" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/Laboration_1$Saab95Test_isTurboOn.ic" NAME="Saab95Test.isTurboOn Coverage Results" MODIFIED="1542010849834" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/Laboration_1$CarTest_turnRight.ic" NAME="CarTest.turnRight Coverage Results" MODIFIED="1542009824911" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
     <SUITE FILE_PATH="coverage/Laboration_1$Truck4CarsTest.ic" NAME="Truck4CarsTest Coverage Results" MODIFIED="1542977275670" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/Laboration_1$ScaniaTest.ic" NAME="ScaniaTest Coverage Results" MODIFIED="1544619769692" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Model.Tests.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Laboration_1$CarTest_getDirection.ic" NAME="CarTest.getDirection Coverage Results" MODIFIED="1542011051542" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/Laboration_1$Saab95Test.ic" NAME="Saab95Test Coverage Results" MODIFIED="1542977234856" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/Laboration_1$Volvo240Test_speedFactor.ic" NAME="Volvo240Test.speedFactor Coverage Results" MODIFIED="1542010732630" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/Laboration_1$ScaniaTest_setFlatBedAngle.ic" NAME="ScaniaTest.setFlatBedAngle Coverage Results" MODIFIED="1542979148596" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/Laboration_1$CarTest_getPosition.ic" NAME="CarTest.getPosition Coverage Results" MODIFIED="1542011040354" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/Laboration_1$TransportTest.ic" NAME="TransportTest Coverage Results" MODIFIED="1542699013610" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/Laboration_1$CarTest_getNrDoors.ic" NAME="CarTest.getNrDoors Coverage Results" MODIFIED="1542008465515" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/Laboration_1$TransportTest_startEngine.ic" NAME="TransportTest.startEngine Coverage Results" MODIFIED="1542977262691" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/Laboration_1$Truck4CarsTest_unloadCars.ic" NAME="Truck4CarsTest.unloadCars Coverage Results" MODIFIED="1542698008334" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/Laboration_1$Volvo240Test.ic" NAME="Volvo240Test Coverage Results" MODIFIED="1542977287937" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/Laboration_1$CarTest_incrementSpeed.ic" NAME="CarTest.incrementSpeed Coverage Results" MODIFIED="1542009320692" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/Laboration_1$CarTransportTest.ic" NAME="CarTransportTest Coverage Results" MODIFIED="1542977205059" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/Laboration_1$TransportTest_isRampUp.ic" NAME="TransportTest.isRampUp Coverage Results" MODIFIED="1542977315582" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/Laboration_1$ScaniaTest_getFlatBedAngle.ic" NAME="ScaniaTest.getFlatBedAngle Coverage Results" MODIFIED="1542979166992" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/Laboration_1$CarTest_startEngine.ic" NAME="CarTest.startEngine Coverage Results" MODIFIED="1542009900801" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/Laboration_1$CarTest_decrementSpeed.ic" NAME="CarTest.decrementSpeed Coverage Results" MODIFIED="1542009406808" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/Laboration_1$CarTransportTest_loadCar.ic" NAME="CarTransportTest.loadCar Coverage Results" MODIFIED="1544111969555" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/Laboration_1$FerryTest.ic" NAME="FerryTest Coverage Results" MODIFIED="1542977217470" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/Laboration_1$CarTest_gas.ic" NAME="CarTest.gas Coverage Results" MODIFIED="1542012537241" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
     <SUITE FILE_PATH="coverage/Laboration_1$Model_Tests_in_Laboration_1.ic" NAME="Model.Tests in Laboration 1 Coverage Results" MODIFIED="1544175418266" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>Model.Tests.*</FILTER>
     </SUITE>
-    <SUITE FILE_PATH="coverage/Laboration_1$Volvo240Test_speedFactor.ic" NAME="Volvo240Test.speedFactor Coverage Results" MODIFIED="1542010732630" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
-    <SUITE FILE_PATH="coverage/Laboration_1$TransportTest_startEngine.ic" NAME="TransportTest.startEngine Coverage Results" MODIFIED="1542977262691" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
-    <SUITE FILE_PATH="coverage/Laboration_1$CarTest_getEnginePower.ic" NAME="CarTest.getEnginePower Coverage Results" MODIFIED="1542008487964" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
-    <SUITE FILE_PATH="coverage/Laboration_1$CarTest_getCurrentSpeed.ic" NAME="CarTest.getCurrentSpeed Coverage Results" MODIFIED="1542008968450" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
-    <SUITE FILE_PATH="coverage/Laboration_1$Truck4CarsTest_unloadCars.ic" NAME="Truck4CarsTest.unloadCars Coverage Results" MODIFIED="1542698008334" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
-    <SUITE FILE_PATH="coverage/Laboration_1$Saab95Test_isTurboOn.ic" NAME="Saab95Test.isTurboOn Coverage Results" MODIFIED="1542010849834" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
-    <SUITE FILE_PATH="coverage/Laboration_1$ScaniaTest_startEngine.ic" NAME="ScaniaTest.startEngine Coverage Results" MODIFIED="1542098558859" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
-    <SUITE FILE_PATH="coverage/Laboration_1$VesselTest.ic" NAME="VesselTest Coverage Results" MODIFIED="1542977149237" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
-    <SUITE FILE_PATH="coverage/Laboration_1$ScaniaTest_setFlatBedAngle.ic" NAME="ScaniaTest.setFlatBedAngle Coverage Results" MODIFIED="1542979148596" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/Laboration_1$TransportTest_setRampUp.ic" NAME="TransportTest.setRampUp Coverage Results" MODIFIED="1542977330849" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/Laboration_1$CarTransportTest_move.ic" NAME="CarTransportTest.move Coverage Results" MODIFIED="1542700276813" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
   <component name="CoverageOptionsProvider">
     <option name="myAddOrReplace" value="1" />
@@ -213,58 +235,33 @@
     <session id="-1671185475">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
+          <entry key="project.closed" value="2" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.37" value="1" />
-          <entry key="project.opened" value="2" />
+          <entry key="project.open.time.40" value="1" />
+          <entry key="project.opened" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="1" />
+          <entry key="java" value="76" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="1" />
+          <entry key="JAVA" value="76" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="51" />
+          <entry key="java" value="268" />
+          <entry key="txt" value="126" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="51" />
-        </counts>
-      </usages-collector>
-    </session>
-    <session id="2064249261">
-      <usages-collector id="statistics.lifecycle.project">
-        <counts>
-          <entry key="project.open.time.1" value="1" />
-          <entry key="project.opened" value="1" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.open">
-        <counts>
-          <entry key="java" value="2" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.open">
-        <counts>
-          <entry key="JAVA" value="2" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.edit">
-        <counts>
-          <entry key="java" value="731" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.edit">
-        <counts>
-          <entry key="JAVA" value="731" />
+          <entry key="JAVA" value="268" />
+          <entry key="PLAIN_TEXT" value="126" />
         </counts>
       </usages-collector>
     </session>
@@ -272,19 +269,31 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/CarController.java">
+        <entry file="file://$PROJECT_DIR$/src/ViewController/CarController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="461">
-              <caret line="135" column="85" selection-start-line="135" selection-start-column="85" selection-end-line="135" selection-end-column="85" />
+            <state relative-caret-position="153">
+              <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/CarsimulationApp.java">
+        <entry file="file://$PROJECT_DIR$/src/ViewController/CarView.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="22" column="1" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
+            <state relative-caret-position="17">
+              <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+              <folding>
+                <element signature="docComment;class#CarView#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ViewController/CarsimulationApp.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -293,69 +302,73 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Model/World.java">
+        <entry file="file://$PROJECT_DIR$/src/Model/Ramp/Ramp.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="544">
-              <caret line="39" column="4" selection-start-line="39" selection-start-column="4" selection-end-line="39" selection-end-column="4" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="153">
+              <caret line="13" column="5" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/CarView.java">
+        <entry file="file://$PROJECT_DIR$/src/Model/Transport.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="173" column="33" selection-start-line="173" selection-start-column="33" selection-end-line="173" selection-end-column="33" />
-              <folding>
-                <element signature="docComment;class#CarView#0" />
-                <element signature="e#5565#5566#0" expanded="true" />
-                <element signature="e#5610#5611#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/DrawPanel.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="223">
-              <caret line="67" column="47" selection-start-line="67" selection-start-column="47" selection-end-line="67" selection-end-column="47" />
+            <state relative-caret-position="138">
+              <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#2616#2617#0" expanded="true" />
-                <element signature="e#2647#2648#0" expanded="true" />
-                <element signature="e#2691#2692#0" expanded="true" />
-                <element signature="e#2724#2725#0" expanded="true" />
-                <element signature="e#2767#2768#0" expanded="true" />
-                <element signature="e#2799#2800#0" expanded="true" />
-                <element signature="e#2844#2845#0" expanded="true" />
-                <element signature="e#2878#2879#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Model/Ferry.java">
+        <entry file="file://$PROJECT_DIR$/src/ViewController/DrawPanel.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="14" selection-start-line="14" selection-end-line="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/DrawCar.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="391">
-              <caret line="31" column="22" selection-start-line="31" selection-start-column="22" selection-end-line="31" selection-end-column="22" />
+            <state relative-caret-position="221">
+              <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#622#623#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ViewController/DrawCar.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Model/Tests/FerryTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Model/Tests/CarTransportTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="449">
+              <caret line="40" column="4" selection-start-line="40" selection-start-column="4" selection-end-line="40" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Model/Tests/CarTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -413,21 +426,28 @@
         <option value="$PROJECT_DIR$/src/VesselTest.java" />
         <option value="$PROJECT_DIR$/src/Vessel.java" />
         <option value="$PROJECT_DIR$/src/DrawCar.java" />
+        <option value="$PROJECT_DIR$/src/DrawPanel.java" />
         <option value="$PROJECT_DIR$/src/Model/Tests/VesselTest.java" />
         <option value="$PROJECT_DIR$/src/Model/Tests/CarTransportTest.java" />
+        <option value="$PROJECT_DIR$/src/Model/World.java" />
+        <option value="$PROJECT_DIR$/src/CarView.java" />
         <option value="$PROJECT_DIR$/src/Model/CarsimulationApp.java" />
         <option value="$PROJECT_DIR$/src/CarsimulationApp.java" />
-        <option value="$PROJECT_DIR$/src/Model/World.java" />
-        <option value="$PROJECT_DIR$/src/DrawPanel.java" />
+        <option value="$PROJECT_DIR$/src/Model/Volvo240.java" />
         <option value="$PROJECT_DIR$/src/CarController.java" />
-        <option value="$PROJECT_DIR$/src/CarView.java" />
+        <option value="$PROJECT_DIR$/src/Model/Ramp/Ramp.java" />
+        <option value="$PROJECT_DIR$/src/Model/Ramp/IRampables.java" />
+        <option value="$PROJECT_DIR$/src/Model/Tests/ScaniaTest.java" />
+        <option value="$PROJECT_DIR$/src/Model/CarTransport.java" />
+        <option value="$PROJECT_DIR$/src/Model/Scania.java" />
+        <option value="$PROJECT_DIR$/src/Model/Transport.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-10" />
     <option name="width" value="975" />
-    <option name="height" value="1049" />
+    <option name="height" value="1048" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -435,37 +455,37 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
-      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="Laboration 1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="TDA552-lab4" type="462c0819:PsiDirectoryNode" />
+              <item name="TDA552-Lab4" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Laboration 1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="TDA552-lab4" type="462c0819:PsiDirectoryNode" />
+              <item name="TDA552-Lab4" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Laboration 1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="TDA552-lab4" type="462c0819:PsiDirectoryNode" />
+              <item name="TDA552-Lab4" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="Model" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Laboration 1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="TDA552-lab4" type="462c0819:PsiDirectoryNode" />
+              <item name="TDA552-Lab4" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="pics" type="462c0819:PsiDirectoryNode" />
+              <item name="Model" type="462c0819:PsiDirectoryNode" />
+              <item name="Ramp" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -473,7 +493,7 @@
     <property name="Downloaded.Files.Path.Enabled" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1544622229816" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1544622292218" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="create.test.in.the.same.root" value="true" />
@@ -511,7 +531,6 @@
           <PATH vcs="Git" revision="">$PROJECT_DIR$/src/Model/Tests/FerryTest.java</PATH>
           <PATH vcs="Git" revision="">$PROJECT_DIR$/src/Model/Tests/TransportTest.java</PATH>
           <PATH vcs="Git" revision="">$PROJECT_DIR$/src/Model/Tests/Truck4CarsTest.java</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/Model/Transport.java</PATH>
           <PATH vcs="Git" revision="">$PROJECT_DIR$/src/Model/Truck4Cars.java</PATH>
         </FILE-GROUP>
         <FILE-GROUP>
@@ -520,9 +539,6 @@
           <option name="mySupportsDeletion" value="false" />
           <option name="myCanBeAbsent" value="false" />
           <option name="myId" value="CREATED" />
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/Model/Ramp/FlatBed.java</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/Model/Ramp/IRampables.java</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/Model/Ramp/Ramp.java</PATH>
           <PATH vcs="Git" revision="">$PROJECT_DIR$/src/Model/VesselFactory.java</PATH>
         </FILE-GROUP>
         <FILE-GROUP>
@@ -531,8 +547,6 @@
           <option name="mySupportsDeletion" value="false" />
           <option name="myCanBeAbsent" value="true" />
           <option name="myId" value="REMOVED_FROM_REPOSITORY" />
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/Model/FlatBed.java</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/Model/Ramp.java</PATH>
         </FILE-GROUP>
         <FILE-GROUP>
           <option name="myUpdateName" value="Restored" />
@@ -628,14 +642,14 @@
   </component>
   <component name="RunManager" selected="Application.CarsimulationApp">
     <configuration name="CarController" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CarController" />
+      <option name="MAIN_CLASS_NAME" value="ViewController.CarController" />
       <module name="Laboration 1" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="CarsimulationApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CarsimulationApp" />
+      <option name="MAIN_CLASS_NAME" value="ViewController.CarsimulationApp" />
       <module name="Laboration 1" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -655,6 +669,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ScaniaTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Laboration 1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Model.Tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Model.Tests" />
+      <option name="MAIN_CLASS_NAME" value="Model.Tests.ScaniaTest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="VesselTest.getDirection" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Laboration 1" />
       <option name="PACKAGE_NAME" value="Model.Tests" />
@@ -665,30 +693,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="VesselTest.turnRight" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Laboration 1" />
-      <option name="PACKAGE_NAME" value="Model.Tests" />
-      <option name="MAIN_CLASS_NAME" value="Model.Tests.VesselTest" />
-      <option name="METHOD_NAME" value="turnRight" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
-      <item itemvalue="JUnit.VesselTest.turnRight" />
       <item itemvalue="JUnit.VesselTest.getDirection" />
       <item itemvalue="Application.CarController" />
       <item itemvalue="JUnit.Model.Tests in Laboration 1" />
       <item itemvalue="Application.CarsimulationApp" />
+      <item itemvalue="JUnit.ScaniaTest" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="Application.CarsimulationApp" />
+        <item itemvalue="JUnit.ScaniaTest" />
         <item itemvalue="Application.CarController" />
         <item itemvalue="JUnit.Model.Tests in Laboration 1" />
         <item itemvalue="JUnit.VesselTest.getDirection" />
-        <item itemvalue="JUnit.VesselTest.turnRight" />
       </list>
     </recent_temporary>
   </component>
@@ -703,12 +721,45 @@
       <option name="presentableId" value="Default" />
       <updated>1541667766797</updated>
     </task>
+    <task id="LOCAL-00001" summary="Moved out mainmethod">
+      <created>1544426838477</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1544426838477</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Moved out the main method">
+      <created>1544426922176</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1544426922176</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Remove mainmethod">
+      <created>1544620154153</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1544620154153</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Remove mainmethod">
+      <created>1544620386138</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1544620386138</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Change Ramp to IRampables">
+      <created>1544620525410</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1544620525410</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="CarTransportTest_loadCar - 2018.12.06 at 16h 59m 35s.xml">
-      <configuration name="CarTransportTest.loadCar" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="Model_Tests_in_Laboration_1 - 2018.12.07 at 10h 25m 08s.xml">
       <configuration name="Model.Tests in Laboration 1" configurationId="JUnit" />
     </history-entry>
@@ -736,6 +787,9 @@
     <history-entry file="Model_Tests_in_Laboration_1 - 2018.12.07 at 10h 49m 19s.xml">
       <configuration name="Model.Tests in Laboration 1" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="ScaniaTest - 2018.12.12 at 14h 03m 37s.xml">
+      <configuration name="ScaniaTest" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -747,28 +801,27 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="878" extended-state="6" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <layout>
       <window_info id="Designer" order="0" />
       <window_info id="UI Designer" order="1" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info id="Image Layers" order="4" />
-      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.24026845" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.20499243" />
       <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Messages" order="0" weight="0.32885906" />
+      <window_info anchor="bottom" id="Messages" order="0" weight="0.32786885" />
       <window_info anchor="bottom" id="Terminal" order="1" weight="0.32885906" />
       <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="3" />
       <window_info anchor="bottom" id="Message" order="4" />
       <window_info anchor="bottom" id="Find" order="5" weight="0.32740214" />
-      <window_info anchor="bottom" id="Run" order="6" visible="true" weight="0.22550336" />
+      <window_info anchor="bottom" id="Run" order="6" visible="true" weight="0.2262295" />
       <window_info anchor="bottom" id="Debug" order="7" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="10" weight="0.32885906" />
-      <window_info anchor="right" id="Coverage" order="0" side_tool="true" weight="0.32874495" />
+      <window_info anchor="right" id="Coverage" order="0" side_tool="true" weight="0.32829046" />
       <window_info anchor="right" id="Capture Analysis" order="1" />
       <window_info anchor="right" id="Theme Preview" order="2" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
@@ -776,11 +829,47 @@
       <window_info anchor="right" id="Palette" order="5" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="6" type="SLIDING" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="7" weight="0.25" />
-      <window_info anchor="right" id="Ant Build" order="8" weight="0.24966443" />
+      <window_info anchor="right" id="Ant Build" order="8" weight="0.24962178" />
     </layout>
+    <layout-to-restore>
+      <window_info id="Designer" order="0" />
+      <window_info id="UI Designer" order="1" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info id="Image Layers" order="4" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.20499243" />
+      <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Messages" order="0" weight="0.32786885" />
+      <window_info anchor="bottom" id="Terminal" order="1" weight="0.32885906" />
+      <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="3" />
+      <window_info anchor="bottom" id="Message" order="4" />
+      <window_info anchor="bottom" id="Find" order="5" weight="0.32740214" />
+      <window_info anchor="bottom" id="Run" order="6" weight="0.2262295" />
+      <window_info anchor="bottom" id="Debug" order="7" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="10" weight="0.32885906" />
+      <window_info anchor="right" id="Coverage" order="0" side_tool="true" weight="0.32829046" />
+      <window_info anchor="right" id="Capture Analysis" order="1" />
+      <window_info anchor="right" id="Theme Preview" order="2" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info anchor="right" id="Maven Projects" order="4" />
+      <window_info anchor="right" id="Palette" order="5" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="6" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="7" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="8" weight="0.24962178" />
+    </layout-to-restore>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Moved out mainmethod" />
+    <MESSAGE value="Moved out the main method" />
+    <MESSAGE value="Remove mainmethod" />
+    <MESSAGE value="Change Ramp to IRampables" />
+    <option name="LAST_COMMIT_MESSAGE" value="Change Ramp to IRampables" />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
@@ -789,54 +878,13 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/test.java" />
     <entry file="file://$PROJECT_DIR$/../../TDA416 - Datastrukturer och Algoritmer/Lab 1-1/src/MaxSumTest.java" />
+    <entry file="jar://$PROJECT_DIR$/../../junit-4.12.jar!/org/junit/Assert.class" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/awt/List.java" />
+    <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_181/src.zip!/javax/swing/Timer.java" />
     <entry file="file://$PROJECT_DIR$/src/Model/Car.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="350">
+        <state relative-caret-position="398">
           <caret line="35" column="36" selection-start-line="35" selection-start-column="36" selection-end-line="35" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/../../junit-4.12.jar!/org/junit/Assert.class" />
-    <entry file="file://$PROJECT_DIR$/src/Model/Ramp.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="15" selection-start-line="15" selection-end-line="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Model/Saab95.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="24" column="7" selection-start-line="24" selection-start-column="7" selection-end-line="24" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Model/FlatBed.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="15" column="36" selection-start-line="15" selection-end-line="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/awt/List.java" />
-    <entry file="file://$PROJECT_DIR$/src/Model/Truck4Cars.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="431">
-          <caret line="27" column="23" selection-start-line="27" selection-start-column="23" selection-end-line="27" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Model/Scania.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="49" selection-start-line="11" selection-start-column="34" selection-end-line="11" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Model/Volvo240.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -847,45 +895,83 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Model/Tests/CarTest.java">
+    <entry file="file://$PROJECT_DIR$/src/Model/Saab95.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        <state relative-caret-position="374">
+          <caret line="24" column="5" lean-forward="true" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Model/Tests/FerryTest.java">
+    <entry file="file://$PROJECT_DIR$/src/Model/Truck4Cars.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        <state relative-caret-position="228">
+          <caret line="27" column="7" lean-forward="true" selection-start-line="27" selection-start-column="7" selection-end-line="27" selection-end-column="7" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Model/Tests/Saab95Test.java">
+    <entry file="file://$PROJECT_DIR$/src/Model/World.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="179">
-          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        <state relative-caret-position="255">
+          <caret line="15" column="20" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Model/Tests/ScaniaTest.java">
+    <entry file="file://$PROJECT_DIR$/src/Model/Ferry.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        <state relative-caret-position="306">
+          <caret line="20" column="12" selection-start-line="20" selection-start-column="12" selection-end-line="20" selection-end-column="12" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Model/Tests/TransportTest.java">
+    <entry file="file://$PROJECT_DIR$/src/Model/Ramp/FlatBed.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        <state relative-caret-position="85">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Model/Tests/Truck4CarsTest.java">
+    <entry file="file://$PROJECT_DIR$/src/Model/Ramp/IRampables.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        <state relative-caret-position="68">
+          <caret line="4" column="23" lean-forward="true" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Model/Scania.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Model/Vessel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="155" column="7" lean-forward="true" selection-start-line="155" selection-start-column="7" selection-end-line="155" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Model/CarTransport.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="31" column="41" lean-forward="true" selection-start-line="31" selection-start-column="41" selection-end-line="31" selection-end-column="41" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Model/Volvo240.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="21" column="18" selection-start-line="21" selection-start-column="18" selection-end-line="21" selection-end-column="18" />
+          <folding>
+            <element signature="e#567#568#0" expanded="true" />
+            <element signature="e#626#627#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -898,114 +984,132 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Model/Tests/VesselTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="99">
+        <state relative-caret-position="551">
           <caret line="94" column="22" selection-start-line="94" selection-start-column="22" selection-end-line="94" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Model/CarTransport.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="116">
-          <caret line="27" column="11" selection-start-line="27" selection-start-column="11" selection-end-line="27" selection-end-column="11" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#297#298#0" expanded="true" />
+            <element signature="e#355#356#0" expanded="true" />
+            <element signature="e#412#413#0" expanded="true" />
+            <element signature="e#470#471#0" expanded="true" />
+            <element signature="e#520#521#0" expanded="true" />
+            <element signature="e#573#574#0" expanded="true" />
+            <element signature="e#1035#1036#0" expanded="true" />
+            <element signature="e#1095#1096#0" expanded="true" />
+            <element signature="e#1634#1635#0" expanded="true" />
+            <element signature="e#1688#1689#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Model/Transport.java">
+    <entry file="file://$PROJECT_DIR$/src/Model/Tests/Truck4CarsTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="58">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Model/Tests/TransportTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Model/Tests/ScaniaTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="26" column="44" lean-forward="true" selection-start-line="26" selection-start-column="44" selection-end-line="26" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Model/Tests/Saab95Test.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
-          <caret line="18" column="11" selection-start-line="18" selection-start-column="11" selection-end-line="18" selection-end-column="11" />
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Model/Tests/FerryTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Model/Tests/CarTransportTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
+        <state relative-caret-position="449">
           <caret line="40" column="4" selection-start-line="40" selection-start-column="4" selection-end-line="40" selection-end-column="4" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Model/Vessel.java">
+    <entry file="file://$PROJECT_DIR$/src/Model/Tests/CarTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="35" column="35" selection-start-line="35" selection-start-column="34" selection-end-line="35" selection-end-column="35" />
+        <state relative-caret-position="119">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_181/src.zip!/javax/swing/Timer.java" />
-    <entry file="file://$PROJECT_DIR$/src/Model/Ferry.java">
+    <entry file="file://$PROJECT_DIR$/src/ViewController/CarController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        <state relative-caret-position="153">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/DrawCar.java">
+    <entry file="file://$PROJECT_DIR$/src/ViewController/CarView.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="31" column="22" selection-start-line="31" selection-start-column="22" selection-end-line="31" selection-end-column="22" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#622#623#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/DrawPanel.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="223">
-          <caret line="67" column="47" selection-start-line="67" selection-start-column="47" selection-end-line="67" selection-end-column="47" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#2616#2617#0" expanded="true" />
-            <element signature="e#2647#2648#0" expanded="true" />
-            <element signature="e#2691#2692#0" expanded="true" />
-            <element signature="e#2724#2725#0" expanded="true" />
-            <element signature="e#2767#2768#0" expanded="true" />
-            <element signature="e#2799#2800#0" expanded="true" />
-            <element signature="e#2844#2845#0" expanded="true" />
-            <element signature="e#2878#2879#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/CarsimulationApp.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="22" column="1" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Model/World.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="544">
-          <caret line="39" column="4" selection-start-line="39" selection-start-column="4" selection-end-line="39" selection-end-column="4" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/CarController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="461">
-          <caret line="135" column="85" selection-start-line="135" selection-start-column="85" selection-end-line="135" selection-end-column="85" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/CarView.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="173" column="33" selection-start-line="173" selection-start-column="33" selection-end-line="173" selection-end-column="33" />
+        <state relative-caret-position="17">
+          <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
           <folding>
             <element signature="docComment;class#CarView#0" />
-            <element signature="e#5565#5566#0" expanded="true" />
-            <element signature="e#5610#5611#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ViewController/DrawCar.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ViewController/DrawPanel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ViewController/CarsimulationApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Model/Ramp/Ramp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="13" column="5" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Model/Transport.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
