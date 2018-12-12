@@ -1,5 +1,7 @@
 package Model;
 
+import Model.Ramp.Ramp;
+
 import java.awt.*;
 import java.util.ArrayList;
 import java.util.List;

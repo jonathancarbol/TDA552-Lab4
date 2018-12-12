@@ -1,6 +1,8 @@
 package Model;
 
 import java.util.ArrayList;
+import java.util.Random;
+
 
 public class World {
     private int sizeX;
@@ -35,4 +37,5 @@ public class World {
     public ArrayList<Vessel> getCars() {
         return cars;
     }
+
 }

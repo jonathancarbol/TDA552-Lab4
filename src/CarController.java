@@ -1,9 +1,11 @@
 import Model.*;
 
 import javax.swing.*;
+import java.awt.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 import java.util.ArrayList;
+import java.util.Random;
 /*
  * This class represents the Controller part in the MVC pattern.
  * It's responsibilities is to listen to the View and responds in a appropriate manner by
@@ -105,6 +107,40 @@ public class CarController {
 
     void startTimer(){
         timer.start();
+    }
+
+    void addCar() {
+        if (world.getCars().size()<10) {
+            Random rand = new Random();
+            int n = rand.nextInt(3) + 1;
+
+            switch (n) {
+                case 1:
+                    world.getCars().add(VesselFactory.createVolvo240());
+                    DrawCar Volvo240 = new DrawCar(frame.drawPanel.getVolvoImage(), new Point(), "Model.Volvo240");
+                    frame.drawPanel.getDrawCars().add(Volvo240);
+                    break;
+
+                case 2:
+                    world.getCars().add(VesselFactory.createSaab95());
+                    DrawCar Saab95 = new DrawCar(frame.drawPanel.getSaabImage(), new Point(), "Model.Saab95");
+                    frame.drawPanel.getDrawCars().add(Saab95);
+                    break;
+
+                case 3:
+                    world.getCars().add(VesselFactory.createScania());
+                    DrawCar Scania = new DrawCar(frame.drawPanel.getScaniaImage(), new Point(), "ScaniaGSleeper");
+                    frame.drawPanel.getDrawCars().add(Scania);
+                    break;
+            }
+        }
+    }
+
+    void removeCar() {
+        if (world.getCars().size() > 0) {
+            world.getCars().remove(world.getCars().size() - 1);
+            frame.drawPanel.getDrawCars().remove(frame.drawPanel.getDrawCars().size() - 1);
+        }
     }
 
 }

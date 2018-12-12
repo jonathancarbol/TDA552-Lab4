@@ -36,6 +36,9 @@ public class CarView extends JFrame{
     JButton startButton = new JButton("Start all cars");
     JButton stopButton = new JButton("Stop all cars");
 
+    JButton addCarButton = new JButton("Add a car");
+    JButton removeCarButton = new JButton("Remove a car");
+
     // Constructor
     public CarView(String framename, CarController cc, int x, int y){
         this.X = x;
@@ -78,13 +81,20 @@ public class CarView extends JFrame{
         controlPanel.add(gasButton, 0);
         controlPanel.add(turboOnButton, 1);
         controlPanel.add(liftBedButton, 2);
-        controlPanel.add(brakeButton, 3);
-        controlPanel.add(turboOffButton, 4);
-        controlPanel.add(lowerBedButton, 5);
+        controlPanel.add(addCarButton, 3);
+        controlPanel.add(brakeButton, 4);
+        controlPanel.add(turboOffButton, 5);
+        controlPanel.add(lowerBedButton, 6);
+        controlPanel.add(removeCarButton, 7);
         controlPanel.setPreferredSize(new Dimension((X/2)+4, 200));
         this.add(controlPanel);
         controlPanel.setBackground(Color.CYAN);
 
+        addCarButton.setBackground(Color.CYAN);
+        addCarButton.setForeground(Color.BLACK);
+
+        removeCarButton.setBackground(Color.YELLOW);
+        removeCarButton.setForeground(Color.BLACK);
 
         startButton.setBackground(Color.blue);
         startButton.setForeground(Color.green);
@@ -148,6 +158,21 @@ public class CarView extends JFrame{
             @Override
             public void actionPerformed(ActionEvent e) {
                 carC.lowerBed();
+            }
+        });
+
+        addCarButton.addActionListener(new ActionListener() {
+            @Override
+            public void actionPerformed(ActionEvent e) {
+                carC.addCar();
+            }
+        });
+
+        removeCarButton.addActionListener(new ActionListener() {
+            @Override
+            public void actionPerformed(ActionEvent e) {
+                carC.removeCar();
+
             }
         });
 

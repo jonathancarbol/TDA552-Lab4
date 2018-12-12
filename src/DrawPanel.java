@@ -24,7 +24,7 @@ public class DrawPanel extends JPanel{
         drawCars.add(Saab95);
         drawCars.add(Scania);
     }
-    // TODO: Make this genereal for all cars
+
     void moveit(int x, int y, String modelName){
         for (int i = 0; i < drawCars.size(); i++){
             if (modelName.equals(drawCars.get(i).getName())){
@@ -65,7 +65,23 @@ public class DrawPanel extends JPanel{
 
         for (int i = 0; i < drawCars.size(); i++){
             g.drawImage(drawCars.get(i).getImage(),drawCars.get(i).getPoint().x,drawCars.get(i).getPoint().y+offset,null);
-            offset = offset+100;
+            offset = offset+600/drawCars.size();
         }
+    }
+
+    public List<DrawCar> getDrawCars() {
+        return drawCars;
+    }
+
+    public BufferedImage getVolvoImage() {
+        return volvoImage;
+    }
+
+    public BufferedImage getSaabImage() {
+        return saabImage;
+    }
+
+    public BufferedImage getScaniaImage() {
+        return scaniaImage;
     }
 }

@@ -1,5 +1,7 @@
 package Model;
 
+import Model.Ramp.FlatBed;
+
 import java.awt.*;
 
 public class Scania extends Transport {
