@@ -37,7 +37,7 @@ public class Transport extends Vessel{
      */
     @Override
     public void startEngine(){
-        if (ramp.isRampUp()){
+        if (ramp.isRampUp() && getCurrentSpeed() < 0.1){
             setCurrentSpeed(0.1);
         }
     }

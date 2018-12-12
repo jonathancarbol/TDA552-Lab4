@@ -86,7 +86,9 @@ public abstract class Vessel implements Movable {
      */
     public void startEngine() {
 
-        currentSpeed = 0.1;
+        if(currentSpeed < 0.1) {
+            currentSpeed = 0.1;
+        }
     }
 
     /**
