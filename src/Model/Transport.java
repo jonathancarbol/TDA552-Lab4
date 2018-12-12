@@ -1,5 +1,8 @@
 package Model;
 
+import Model.Ramp.FlatBed;
+import Model.Ramp.IRampables;
+
 import java.awt.*;
 
 /**
@@ -7,7 +10,7 @@ import java.awt.*;
  */
 public class Transport extends Vessel{
 
-    private Ramp ramp;
+    private IRampables ramp;
 
     /**
      * Constructor for the Model.Transport class.
@@ -15,18 +18,18 @@ public class Transport extends Vessel{
      * @param color
      * @param modelName
      */
-    public Transport(double enginePower, Color color, String modelName, Ramp ramp) {
+    public Transport(double enginePower, Color color, String modelName, IRampables ramp) {
         super(enginePower, color, modelName);
         this.ramp = ramp;
     }
 
 
-    public Ramp getRamp() {
+    public IRampables getRamp() {
         return ramp;
     }
 
     public FlatBed getFlatBed() {
-        return (FlatBed) ramp;
+            return (FlatBed) ramp;
     }
 
     /**
@@ -38,22 +41,4 @@ public class Transport extends Vessel{
             setCurrentSpeed(0.1);
         }
     }
-
-   /* /**
-     * Checks whether or not the ramp of the transport is up or down.
-     * @return rampUp
-     */
-   /*
-    public boolean isRampUp() {
-        return rampUp;
-    }
-
-    /**
-     * Sets the ramp/bed of transport to up or down.
-     * @param rampUp
-     */
-    /*public void setRampUp(boolean rampUp) {
-        this.rampUp = rampUp;
-    }*/
-
 }
