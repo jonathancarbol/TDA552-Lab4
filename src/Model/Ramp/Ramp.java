@@ -1,6 +1,6 @@
-package Model;
+package Model.Ramp;
 
-public class Ramp {
+public class Ramp implements IRampables{
 
     private boolean isRampUp;
 
