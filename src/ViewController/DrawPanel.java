@@ -1,4 +1,7 @@
+package ViewController;
+
 import Model.Vessel;
+import ViewController.DrawCar;
 
 import java.awt.*;
 import java.awt.image.BufferedImage;
