@@ -17,6 +17,7 @@ public class CarsimulationApp {
         cc.world = new World(800, 560, cars);
         // Start a new view and send a reference of self
         cc.frame = new CarView("CarSim 1.0", cc, cc.world.getSizeX(), cc.world.getSizeY());
+        cc.initButton();
 
 
         // Start the timer

@@ -46,7 +46,82 @@ public class CarController {
                 frame.drawPanel.repaint();
             }
         }
+
+
     }
+
+    public void initButton(){
+        frame.getGasButton().addActionListener(new ActionListener() {
+            @Override
+            public void actionPerformed(ActionEvent e) {
+                gas(frame.getGasAmount());
+            }
+        });
+
+        frame.getStartButton().addActionListener(new ActionListener() {
+            @Override
+            public void actionPerformed(ActionEvent e) { startEngine();}
+        });
+
+        frame.getStopButton().addActionListener(new ActionListener() {
+            @Override
+            public void actionPerformed(ActionEvent e) {
+                stopEngine();
+            }
+        });
+
+        frame.getBrakeButton().addActionListener(new ActionListener() {
+            @Override
+            public void actionPerformed(ActionEvent e) {
+                brake(frame.getGasAmount());
+            }
+        });
+
+        frame.getTurboOnButton().addActionListener(new ActionListener() {
+            @Override
+            public void actionPerformed(ActionEvent e) {
+                turboOn();
+            }
+        });
+
+        frame.getTurboOffButton().addActionListener(new ActionListener() {
+            @Override
+            public void actionPerformed(ActionEvent e) {
+                turboOff();
+            }
+        });
+
+        frame.getLiftBedButton().addActionListener(new ActionListener() {
+            @Override
+            public void actionPerformed(ActionEvent e) {
+                liftBed();
+            }
+        });
+
+        frame.getLowerBedButton().addActionListener(new ActionListener() {
+            @Override
+            public void actionPerformed(ActionEvent e) {
+                lowerBed();
+            }
+        });
+
+        frame.getAddCarButton().addActionListener(new ActionListener() {
+            @Override
+            public void actionPerformed(ActionEvent e) {
+                addCar();
+            }
+        });
+
+        frame.getRemoveCarButton().addActionListener(new ActionListener() {
+            @Override
+            public void actionPerformed(ActionEvent e) {
+                removeCar();
+
+            }
+        });
+    }
+
+
 
     // Calls the gas method for each car once
     void gas(int amount) {
